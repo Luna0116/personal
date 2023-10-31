@@ -12,6 +12,8 @@ body {
     font-family: 'Tajawal', sans-serif;
 }
 
+theme: minima
+
 main {
     max-width: 1000px;
     margin-left: auto;
